@@ -1,0 +1,2 @@
+include ':app', ':rashaadsrns'
+rootProject.name='My Application'
